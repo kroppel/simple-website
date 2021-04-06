@@ -13,6 +13,6 @@ function getQueryVariable(variable)
 //var mp4 = "../mounting_point/simpsons_episodes/" + getQueryVariable("src");
 //var mp4 = "https://drive.google.com/file/d/1rySCZebGE8lDtP31ptDLn3M-3AAj6rtP/preview&autoplay=1";
 var mp4 = "https://www.youtube.com/watch?v=ffhu3ei2Rx4";
-document.getElementById("mp4-video-src").setAttribute(qualifiedName = "src", value = mp4)
+//document.getElementById("mp4-video").setAttribute(qualifiedName = "src", value = mp4)
 document.getElementById("episode-title").innerHTML = getQueryVariable("title").replace(/%20/g, " ").replace(/%27/g, "'")
 
