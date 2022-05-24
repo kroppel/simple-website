@@ -1,3 +1,2 @@
-# simpsons-episodes.de
-This repository contains all resources for the (former) domain simpsons-episodes.de.
-(domain is no longer registered by me)
+# simple-website
+This repository contains all resources for a simple website i wrote to provide the functionality of a small video streaming platform.
